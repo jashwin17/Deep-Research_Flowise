@@ -10,6 +10,10 @@ Deep Research Agent is an AI-powered multi-agent system that conducts iterative,
 
 Deep Research Agent is an advanced AI-driven research framework designed to mimic a skilled researcher’s approach to complex topics. Unlike single-pass tools, it divides research into specialized tasks, coordinated by multiple sub-agents.
 
+##  Problem Statement  
+![Problem Statement](https://github.com/jashwin17/Deep-Research_Flowise/blob/main/Problem%20statement.png)
+
+
 **Key Features:**
 - **Planner Agent:** Orchestrates the process by analyzing queries, creating a list of focused research tasks, and assigning each task to a sub-agent with specialized tools (ArXiv for academic papers, Tavly API for web searches, and a Web Scraper for targeted extraction).
 - **Iterative Cycles:** The system reviews initial findings to determine if further research is needed. It can refine the plan and run additional sub-agents (up to 5 loops) for deeper insights.
@@ -18,6 +22,8 @@ Deep Research Agent is an advanced AI-driven research framework designed to mimi
 This design minimizes hallucination risks, ensures depth, and produces professional-grade research outputs.
 
 
+##  Flow Diagram  
+![Flow](https://github.com/jashwin17/Deep-Research_Flowise/blob/main/Flow.png)
 ---
 
 ## ⚙️ How It Works

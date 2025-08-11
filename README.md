@@ -17,6 +17,8 @@ Deep Research Agent is an advanced AI-driven research framework designed to mimi
 
 This design minimizes hallucination risks, ensures depth, and produces professional-grade research outputs.
 
+![NotebookLM Mind Map](NotebookLM%20Mind%20Map.png)
+
 ---
 
 ## ⚙️ How It Works
@@ -31,6 +33,8 @@ This design minimizes hallucination risks, ensures depth, and produces professio
 8. **Direct Reply:** Sends the final report to the user.
 
 ---
+
+![NotebookLM Mind Map (1)](NotebookLM%20Mind%20Map%20(1).png)
 
 ## 🧪 Example Run
 
